@@ -3,7 +3,7 @@
 A fun and interactive **Tower Block Game** where you stack blocks to build the highest tower possible! Test your precision and timing skills.  
 
 <p align="center">
-  <img src="tower.png" alt="Tower Block Game" width="400">
+  <img src="tower.png" alt="Tower Block Game" width="800">
 </p>  
 
 ## 🔗 Live Demo  
